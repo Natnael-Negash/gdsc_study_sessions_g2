@@ -1,3 +1,4 @@
+""" """
 character = input("please enter the pattern to be printed:" )
 if len(character) != 1:
     print("the length of the character should be 1")
